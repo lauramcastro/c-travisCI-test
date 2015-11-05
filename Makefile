@@ -1,4 +1,4 @@
-all: lcov cunit
+all: cunit
 
 cunit: holamundo.o holamundo-test.c
 	gcc -Wall -Werror --coverage -o holamundo-test holamundo.o holamundo-test.c -lcunit
