@@ -1,2 +1,2 @@
 # c-travisCI-test
-Testing TravisCI for simple C projects
+Testing TravisCI for simple C projects.
